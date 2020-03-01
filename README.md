@@ -4,7 +4,7 @@ This is piece of code that calculates the run off generated, its application com
 To run this piece of code you must be running Python 3 and have the following modules installed
 <ul>
   <li>Pysimplegui</li>
-  <l>imatplotlib</li>
+  <li>imatplotlib</li>
   <li>xlrd</li>
   <li>pandas</li>
   <li>numpy</li>
