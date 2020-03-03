@@ -36,3 +36,7 @@ when you do this, you fill the percentage composition of the various constituent
 ![interfaces](imgs/Screenshot%20(171).png)
 the software altomatically calculates the CN2 values and places the result in the form that appears next
 ![interfaces](imgs/Screenshot%20(172).png)
+<br>
+You can then select the source file containing the data you want the software to work on. The software works on JSON, CSV AND EXCEL files. Sample files showing the file structure the software works with are available in the *samplefile* folder.
+<br>
+Graphs showing the results are then generated. The ia also an avenue for making comments. After the comment has been made the entire result is written to a file as well as the comments
