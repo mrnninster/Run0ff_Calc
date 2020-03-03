@@ -25,6 +25,14 @@ Then your CN2 value if you already know it, but you can always select the calcul
 <br>
 When you select the calculate button, you get the option to select the hydrological soil types with which you want to calculate the CN2 value.
 <br>
-![interfaces](imgs/Screenshot%20(167).png)
+![interfaces](imgs/Screenshot%20(168).png)
 <br>
-when you do this, you fill the percentage composition of the various constituent of the soil types, the software altomatically calculates the CN2 values and places the result in the form that appears next
+when you do this, you fill the percentage composition of the various constituent of the soil types,
+<br>
+![interfaces](imgs/Screenshot%20(169).png)
+<br>
+![interfaces](imgs/Screenshot%20(170).png)
+<br>
+![interfaces](imgs/Screenshot%20(171).png)
+the software altomatically calculates the CN2 values and places the result in the form that appears next
+![interfaces](imgs/Screenshot%20(172).png)
