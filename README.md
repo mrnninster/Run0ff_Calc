@@ -22,3 +22,9 @@ In order to use the program, fill the form as required,
 Enter the area of the land
 <br>
 Then your CN2 value if you already know it, but you can always select the calculate button to calculate the CN2 value
+<br>
+When you select the calculate button, you get the option to select the hydrological soil types with which you want to calculate the CN2 value.
+<br>
+![interfaces](imgs/Screenshot%20(167).png)
+<br>
+when you do this, you fill the percentage composition of the various constituent of the soil types, the software altomatically calculates the CN2 values and places the result in the form that appears next
